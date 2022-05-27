@@ -1,0 +1,1 @@
+# Linux CPP (G++) VS Code Config Template
